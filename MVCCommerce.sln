@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCCommerceWeb", "MVCCommerceWeb\MVCCommerceWeb.csproj", "{44917392-892A-4DCB-B16F-01E4B74ED536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44917392-892A-4DCB-B16F-01E4B74ED536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44917392-892A-4DCB-B16F-01E4B74ED536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44917392-892A-4DCB-B16F-01E4B74ED536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44917392-892A-4DCB-B16F-01E4B74ED536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38423996-352B-47A0-ACC2-8BC25FB424A7}
+	EndGlobalSection
+EndGlobal
